@@ -4,11 +4,24 @@ The repo contains source code for the Client side of the ODEN Project website. C
 ## Directory Structure
 The structure and intended contents of the directories in this project are shown in the diagram below:
 
-/root
-|=--- /scripts { All front-end JavaScript files }
-|
-|=--- /server { All back-end JavaScript files }
-|       |=--- /controllers { Server routing }
-|
-|=--- /views { HTML files }
-        |=--- /styles { CSS files }
+```
+project
+│   README.md
+│   package.json    
+│
+└───server { All back-end JavaScript files }
+│   │   app.js.js
+│   │   server.js
+│   │
+│   └───controllers { Server routing }
+│
+└───scripts { All front-end JavaScript files }
+│   │   data-dummy.js
+│   │   data-github.js
+│
+└───views { HTML files }
+    │   index.html
+    │
+    └───styles { CSS files }
+        │   styles.css
+```
