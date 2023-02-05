@@ -1,0 +1,27 @@
+#country-list {
+  list-style-type: none;
+}
+
+#country-list > li {
+  margin-bottom: 10px;
+}
+
+#country-list > li > ul {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+#country-list > li > ul > li {
+  margin-bottom: 5px;
+}
+
+#country-list > li > ul > li > ul {
+  list-style-type: none;
+  padding-left: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
