@@ -48,4 +48,26 @@ a {
 
 table, th, td {
   border: 1px solid;
+  background-color: #d8dad7;
+}
+
+table {
+  width: 80%;
+}
+
+.table-header {
+  background-color: #888b86;
+  color: black;
+}
+
+.table-country-cell {
+  text-align: center;
+  font-size: 30px;
+  /*background-color: rgb(255, 153, 0);*/
+}
+
+.table-region-cell {
+  text-align: center;
+  font-size: 20px;
+  /*background-color: rgb(196, 124, 190);*/
 }
