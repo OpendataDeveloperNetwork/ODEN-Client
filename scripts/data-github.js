@@ -1,24 +1,23 @@
 const countryList = document.getElementById("country-list");
 const countryTable = document.getElementById("country-table");
 
-function addTableHeader(countryTable) {
-  const countryTableHeader = document.createElement("tr");
-  const countryTableHeaderCountry = document.createElement("th");
-  const countryTableHeaderRegion = document.createElement("th");
-  const countryTableHeaderCity = document.createElement("th");
-  countryTableHeaderCountry.innerText = "Country";
-  countryTableHeaderRegion.innerText = "Region";
-  countryTableHeaderCity.innerText = "City";
-  countryTableHeaderCountry.classList.add("table-header");
-  countryTableHeaderRegion.classList.add("table-header");
-  countryTableHeaderCity.classList.add("table-header");
-  countryTableHeader.appendChild(countryTableHeaderCountry);
-  countryTableHeader.appendChild(countryTableHeaderRegion);
-  countryTableHeader.appendChild(countryTableHeaderCity);
-  countryTable.appendChild(countryTableHeader);
+function addTableHeader() {
+  const thead = document.createElement("thead");
+  const countryHeader = document.createElement("th");
+  countryHeader.innerText = "Country";
+  countryHeader.classList.add("table-header");
+  const regionHeader = document.createElement("th");
+  regionHeader.innerText = "Region";
+  regionHeader.classList.add("table-header");
+  const cityHeader = document.createElement("th");
+  cityHeader.innerText = "City";
+  cityHeader.classList.add("table-header");
+  thead.appendChild(countryHeader);
+  thead.appendChild(regionHeader);
+  thead.appendChild(cityHeader);
+  countryTable.appendChild(thead);
 }
 
-// download data from json file
 fetch("https://raw.githubusercontent.com/tofubeer/test/main/data.json")
   .then(response => response.json())
   .then(data => {
@@ -32,46 +31,54 @@ fetch("https://raw.githubusercontent.com/tofubeer/test/main/data.json")
         return a.city.localeCompare(b.city);
       }
     });
+
+    // create table and table headers
+    addTableHeader();
+
+    // create table body
+    const tbody = document.createElement("tbody");
+
     let currentCountry = null;
     let currentRegion = null;
-    let regionList;
-    let cityList;
-    let cityCount = 0;
-
-    addTableHeader(countryTable);
+    let currentCountryCell = null;
+    let currentRegionCell = null;
 
     data.forEach(entry => {
-      // create a new list for the country if it's different from the previous entry
+      // create a new row for country if country is different, otherwise increment rowspan
+      const row = document.createElement("tr");
       if (entry.country !== currentCountry) {
         currentCountry = entry.country;
-        const countryItem = document.createElement("li");
-        countryItem.innerText = currentCountry;
-        regionList = document.createElement("ul");
-        countryItem.appendChild(regionList);
-        countryList.appendChild(countryItem);
-        currentRegion = null;
+
+        const countryCell = document.createElement("td");
+        countryCell.innerText = currentCountry;
+        currentCountryCell = countryCell;
+        row.appendChild(countryCell);
+      } else {
+        ++currentCountryCell.rowSpan;
       }
 
-      // create a new list for the region if it's different from the previous entry
+      // create a new row for region if region is different, otherwise increment rowspan
       if (entry.region !== currentRegion) {
         currentRegion = entry.region;
-        const regionItem = document.createElement("li");
-        regionItem.innerText = currentRegion;
-        cityList = document.createElement("ul");
-        regionItem.appendChild(cityList);
-        regionList.appendChild(regionItem);
-        cityCount = 0;
-      }
-      if (cityCount < 3) {
-        // create a new list item for the city
-        const cityItem = document.createElement("li");
-        const link = document.createElement("a");
-        link.href = entry.url;
-        link.innerText = entry.city;
-        cityItem.appendChild(link);
-        cityList.appendChild(cityItem);
-        cityCount++;
-      }
-    });
-  });
 
+        const regionCell = document.createElement("td");
+        regionCell.innerText = currentRegion;
+        currentRegionCell = regionCell;
+        row.appendChild(regionCell);
+      } else {
+        ++currentRegionCell.rowSpan;
+      }
+
+      // create a new row for city
+      const cityCell = document.createElement("td");
+      const link = document.createElement("a");
+      link.href = entry.url;
+      link.innerText = entry.city;
+      cityCell.appendChild(link);
+      row.appendChild(cityCell);
+      tbody.appendChild(row);
+    });
+
+    countryTable.appendChild(tbody);
+    document.body.appendChild(countryTable);
+  });
