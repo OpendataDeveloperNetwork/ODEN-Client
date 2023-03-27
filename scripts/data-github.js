@@ -1,6 +1,23 @@
 const countryList = document.getElementById("country-list");
 const countryTable = document.getElementById("country-table");
 
+function addTableHeader(countryTable) {
+  const countryTableHeader = document.createElement("tr");
+  const countryTableHeaderCountry = document.createElement("th");
+  const countryTableHeaderRegion = document.createElement("th");
+  const countryTableHeaderCity = document.createElement("th");
+  countryTableHeaderCountry.innerText = "Country";
+  countryTableHeaderRegion.innerText = "Region";
+  countryTableHeaderCity.innerText = "City";
+  countryTableHeaderCountry.classList.add("table-header");
+  countryTableHeaderRegion.classList.add("table-header");
+  countryTableHeaderCity.classList.add("table-header");
+  countryTableHeader.appendChild(countryTableHeaderCountry);
+  countryTableHeader.appendChild(countryTableHeaderRegion);
+  countryTableHeader.appendChild(countryTableHeaderCity);
+  countryTable.appendChild(countryTableHeader);
+}
+
 // download data from json file
 fetch("https://raw.githubusercontent.com/tofubeer/test/main/data.json")
   .then(response => response.json())
@@ -21,19 +38,7 @@ fetch("https://raw.githubusercontent.com/tofubeer/test/main/data.json")
     let cityList;
     let cityCount = 0;
 
-    const countryTableHeader = document.createElement("tr");
-    const countryTableHeaderCountry = document.createElement("th");
-    const countryTableHeaderRegion = document.createElement("th");
-    const countryTableHeaderCity = document.createElement("th");
-    countryTableHeaderCountry.innerText = "Country";
-    countryTableHeaderRegion.innerText = "Region";
-    countryTableHeaderCity.innerText = "City";
-    countryTableHeaderCountry.classList.add("table-header");
-    countryTableHeaderRegion.classList.add("table-header");
-    countryTableHeaderCity.classList.add("table-header");
-    countryTableHeader.appendChild(countryTableHeaderCountry);
-    countryTableHeader.appendChild(countryTableHeaderRegion);
-    countryTableHeader.appendChild(countryTableHeaderCity);
+    addTableHeader(countryTable);
 
     data.forEach(entry => {
       // create a new list for the country if it's different from the previous entry
