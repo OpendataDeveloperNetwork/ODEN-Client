@@ -1,4 +1,3 @@
-const countryList = document.getElementById("country-list");
 const countryTable = document.getElementById("country-table");
 
 fetch("https://raw.githubusercontent.com/tofubeer/test/main/data.json")
@@ -34,6 +33,7 @@ fetch("https://raw.githubusercontent.com/tofubeer/test/main/data.json")
 
         const countryCell = document.createElement("td");
         countryCell.innerText = currentCountry;
+        countryCell.classList.add("table-country-cell");
         currentCountryCell = countryCell;
         row.appendChild(countryCell);
       } else {
@@ -46,6 +46,7 @@ fetch("https://raw.githubusercontent.com/tofubeer/test/main/data.json")
 
         const regionCell = document.createElement("td");
         regionCell.innerText = currentRegion;
+        regionCell.classList.add("table-region-cell");
         currentRegionCell = regionCell;
         row.appendChild(regionCell);
       } else {
@@ -57,6 +58,7 @@ fetch("https://raw.githubusercontent.com/tofubeer/test/main/data.json")
       const link = document.createElement("a");
       link.href = entry.url;
       link.innerText = entry.city;
+      cityCell.classList.add("table-city-cell");
       cityCell.appendChild(link);
       row.appendChild(cityCell);
 
