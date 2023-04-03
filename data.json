@@ -40,5 +40,17 @@
     "country": "Chad",
     "region": "Chari-Baguirmi",
     "city": "Gigachad"
+  },
+  {
+    "url": "https://testing.site/data.json",
+    "country": "China",
+    "region": "Hebei",
+    "city": "Somewhere"
+  },
+  {
+    "url": "https://testing.site/data.json",
+    "country": "China",
+    "region": "Hebei",
+    "city": "Somewhere"
   }
 ]
