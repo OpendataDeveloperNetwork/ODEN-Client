@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "url": "https://testing.ca/data",
+    "country": "Canada",
+    "region": "British Columbia",
+    "city": "New West"
+  }
+]
