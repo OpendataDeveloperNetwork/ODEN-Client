@@ -4,5 +4,11 @@
     "country": "Canada",
     "region": "British Columbia",
     "city": "New West"
+  },
+  {
+    "url": "https://testing.ca/data",
+    "country": "Cape Verde",
+    "region": "Paúl",
+    "city": "Paul"
   }
 ]
