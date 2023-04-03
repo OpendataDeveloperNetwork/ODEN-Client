@@ -10,5 +10,17 @@
     "country": "Cape Verde",
     "region": "Paúl",
     "city": "Paul"
+  },
+  {
+    "url": "https://testing.ca/data",
+    "country": "Canada",
+    "region": "Alberta",
+    "city": "Calgary"
+  },
+  {
+    "url": "https://testing.ca/data",
+    "country": "Canada",
+    "region": "Manitoba",
+    "city": "Winnipeg"
   }
 ]
