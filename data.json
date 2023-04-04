@@ -7,12 +7,6 @@
   },
   {
     "url": "https://testing.ca/data",
-    "country": "Cape Verde",
-    "region": "Paúl",
-    "city": "Paul"
-  },
-  {
-    "url": "https://testing.ca/data",
     "country": "Canada",
     "region": "Alberta",
     "city": "Calgary"
@@ -28,29 +22,5 @@
     "country": "Canada",
     "region": "Manitoba",
     "city": "Winnipeg"
-  },
-  {
-    "url": "https://testing.site/data.json",
-    "country": "China",
-    "region": "Hebei",
-    "city": "Somewhere"
-  },
-  {
-    "url": "https://testing.site/data.json",
-    "country": "Chad",
-    "region": "Chari-Baguirmi",
-    "city": "Gigachad"
-  },
-  {
-    "url": "https://testing.site/data.json",
-    "country": "China",
-    "region": "Hebei",
-    "city": "Somewhere"
-  },
-  {
-    "url": "https://testing.site/data.json",
-    "country": "China",
-    "region": "Hebei",
-    "city": "Somewhere"
   }
 ]
