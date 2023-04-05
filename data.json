@@ -40,5 +40,17 @@
     "country": "Åland Islands",
     "region": "Eckerö",
     "city": "Test City"
+  },
+  {
+    "url": "https://testing.ca/data.json",
+    "country": "Åland Islands",
+    "region": "Eckerö",
+    "city": "Test City"
+  },
+  {
+    "url": "https://testing.ca/data.json",
+    "country": "Åland Islands",
+    "region": "Eckerö",
+    "city": "Test City"
   }
 ]
