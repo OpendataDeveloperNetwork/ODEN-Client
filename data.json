@@ -22,5 +22,11 @@
     "country": "Canada",
     "region": "Manitoba",
     "city": "Winnipeg"
+  },
+  {
+    "url": "https://testing.ca/data.json",
+    "country": "Canada",
+    "region": "Quebec",
+    "city": "Montreal"
   }
 ]
