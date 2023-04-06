@@ -34,5 +34,11 @@
     "country": "Canada",
     "region": "British Columbia",
     "city": "North Vancouver"
+  },
+  {
+    "url": "https://testing.ca/data.json",
+    "country": "Canada",
+    "region": "British Columbia",
+    "city": "West Vancouver"
   }
 ]
