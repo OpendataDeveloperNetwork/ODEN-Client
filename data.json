@@ -22,5 +22,11 @@
     "country": "Canada",
     "region": "Quebec",
     "city": "Montreal"
+  },
+  {
+    "url": "https://testing.ca/data.json",
+    "country": "Canada",
+    "region": "Ontario",
+    "city": "Toronto"
   }
 ]
