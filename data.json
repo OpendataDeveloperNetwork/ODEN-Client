@@ -40,5 +40,17 @@
     "country": "Canada",
     "region": "British Columbia",
     "city": "West Vancouver"
+  },
+  {
+    "url": "http://opendata.victoria.ca/data.json",
+    "country": "Canada",
+    "region": "British Columbia",
+    "city": "Victoria"
+  },
+  {
+    "url": "http://opendata.victoria.ca/data.json",
+    "country": "Canada",
+    "region": "British Columbia",
+    "city": "Victoria"
   }
 ]
