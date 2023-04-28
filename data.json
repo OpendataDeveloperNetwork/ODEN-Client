@@ -58,5 +58,16 @@
     "city": "Penguin",
     "region": "Adelie Land",
     "url": "https://website"
+  },
+  {
+    "category": "",
+    "url": "https://website",
+    "country": "French Southern and Antarctic Lands",
+    "region": "Adelie Land",
+    "city": "Penguin",
+    "hasSchema": false,
+    "schema": "",
+    "isFilterable": false,
+    "filters": {}
   }
 ]
