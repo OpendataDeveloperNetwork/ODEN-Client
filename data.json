@@ -91,5 +91,20 @@
     "schema": "",
     "isFilterable": false,
     "filters": {}
+  },
+  {
+    "labels": {
+      "category": "",
+      "country": "Belize",
+      "region": "Toledo District",
+      "city": "Holy Toledo",
+      "hasSchema": false,
+      "isFilterable": false
+    },
+    "data": {
+      "url": "https://sahfvahsjkd",
+      "schema": "",
+      "filters": {}
+    }
   }
 ]
