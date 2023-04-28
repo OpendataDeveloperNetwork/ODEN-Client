@@ -52,5 +52,11 @@
     "country": "Canada",
     "region": "British Columbia",
     "city": "Victoria"
+  },
+  {
+    "country": "French Southern and Antarctic Lands",
+    "city": "Penguin",
+    "region": "Adelie Land",
+    "url": "https://website"
   }
 ]
