@@ -80,5 +80,16 @@
     "schema": "",
     "isFilterable": false,
     "filters": {}
+  },
+  {
+    "category": "",
+    "url": "https://url",
+    "country": "Canada",
+    "region": "BC",
+    "city": "Vancouver",
+    "hasSchema": false,
+    "schema": "",
+    "isFilterable": false,
+    "filters": {}
   }
 ]
