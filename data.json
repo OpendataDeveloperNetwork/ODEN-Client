@@ -106,5 +106,37 @@
       "schema": "",
       "filters": {}
     }
+  },
+  {
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Alaska",
+      "city": "Fairbanks",
+      "categorized": false,
+      "schemaConformant": false,
+      "isFilterable": false
+    },
+    "data": {
+      "url": "http://notawebsite.org",
+      "schema": "",
+      "filters": {}
+    }
+  },
+  {
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Alaska",
+      "city": "Fairbanks",
+      "categorized": false,
+      "schemaConformant": false,
+      "isFilterable": false
+    },
+    "data": {
+      "url": "http://notawebsite.org",
+      "schema": "",
+      "filters": {}
+    }
   }
 ]
