@@ -69,5 +69,16 @@
     "schema": "",
     "isFilterable": false,
     "filters": {}
+  },
+  {
+    "category": "",
+    "url": "https://example.com",
+    "country": "Åland Islands",
+    "region": "Finström",
+    "city": "Cityname",
+    "hasSchema": false,
+    "schema": "",
+    "isFilterable": false,
+    "filters": {}
   }
 ]
