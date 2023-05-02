@@ -138,5 +138,44 @@
       "schema": "",
       "filters": {}
     }
+  },
+  {
+    "url": "https://www.testboy.ca",
+    "labels": {
+      "category": "",
+      "country": "Canada",
+      "region": "BC",
+      "city": "Vancouver"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://www.seattle.com",
+    "labels": {
+      "category": "",
+      "country": "USA",
+      "region": "Washington",
+      "city": "Seattle"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://leagueoflololol.lol",
+    "labels": {
+      "category": "",
+      "country": "Demacia",
+      "region": "Ionia",
+      "city": "Noxus"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
   }
 ]
