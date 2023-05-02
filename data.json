@@ -177,5 +177,18 @@
       "schema": "",
       "datasets": {}
     }
+  },
+  {
+    "url": "https://opendata.vancouver.ca/",
+    "labels": {
+      "category": "",
+      "country": "Canada",
+      "region": "British Columbia",
+      "city": "Vancouver"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
   }
 ]
