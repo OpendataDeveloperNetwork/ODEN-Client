@@ -190,5 +190,18 @@
       "schema": "",
       "datasets": {}
     }
+  },
+  {
+    "url": "http://opendata-saskatoon.cloudapp.net/",
+    "labels": {
+      "category": "",
+      "country": "Canada",
+      "region": "Saskatchewan",
+      "city": "Saskatoon"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
   }
 ]
