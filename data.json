@@ -242,5 +242,31 @@
       "schema": "",
       "datasets": {}
     }
+  },
+  {
+    "url": "https://catalogue-saintjohn.opendata.arcgis.com/",
+    "labels": {
+      "category": "",
+      "country": "Canada",
+      "region": "New Brunswick",
+      "city": "St John"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://catalogue-saintjohn.opendata.arcgis.com/",
+    "labels": {
+      "category": "",
+      "country": "Canada",
+      "region": "New Brunswick",
+      "city": "St John"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
   }
 ]
