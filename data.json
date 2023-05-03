@@ -203,5 +203,44 @@
       "schema": "",
       "datasets": {}
     }
+  },
+  {
+    "url": "https://data.calgary.ca/",
+    "labels": {
+      "category": "",
+      "country": "Canada",
+      "region": "Alberta",
+      "city": "Calgary"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "http://opendata-saskatoon.cloudapp.net/",
+    "labels": {
+      "category": "",
+      "country": "Canada",
+      "region": "Saskatchewan",
+      "city": "Saskatoon"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://opendata.vancouver.ca/",
+    "labels": {
+      "category": "",
+      "country": "Canada",
+      "region": "British Columbia",
+      "city": "Vancouver"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
   }
 ]
