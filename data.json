@@ -453,5 +453,31 @@
       "schema": "",
       "datasets": {}
     }
+  },
+  {
+    "url": "https://opendata.lethbridge.ca/documents/1c9fc1bb0b9a4f9ca2d631c1a7ed6a67",
+    "labels": {
+      "category": "",
+      "country": "Canada",
+      "region": "Alberta",
+      "city": "Lethbridge"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://opendata.lethbridge.ca/documents/f725a98ee2e8403b9572d6e5b8453e7a",
+    "labels": {
+      "category": "",
+      "country": "Canada",
+      "region": "Alberta",
+      "city": "Lethbridge"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
   }
 ]
