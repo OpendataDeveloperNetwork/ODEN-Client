@@ -1,10 +1,10 @@
-[
-  {
+{
+  "0": {
     "id": "gSyuSab7AdnwIZq2qzm1",
     "url": "https://data.calgary.ca/d/2i2v-2r6r",
     "labels": {
       "categorized": false,
-      "hasCountry": true,
+      "hasCountry": false,
       "hasRegion": true,
       "hasCity": true,
       "isFilterable": false,
@@ -21,7 +21,7 @@
       "submissionTime": 1683156831392
     }
   },
-  {
+  "1": {
     "id": "gSyuSab7AdnwIZq2qzm1",
     "url": "https://data.calgary.ca/d/2kp2-hsy7",
     "labels": {
@@ -43,7 +43,7 @@
       "submissionTime": 1683156831392
     }
   },
-  {
+  "2": {
     "id": "gSyuSab7AdnwIZq2qzm1",
     "url": "https://data.calgary.ca/d/4jah-h97u",
     "labels": {
@@ -65,7 +65,7 @@
       "submissionTime": 1683156831392
     }
   },
-  {
+  "3": {
     "id": "gSyuSab7AdnwIZq2qzm1",
     "url": "https://data.calgary.ca/d/6933-unw5",
     "labels": {
@@ -87,7 +87,7 @@
       "submissionTime": 1683156831392
     }
   },
-  {
+  "4": {
     "id": "gSyuSab7AdnwIZq2qzm1",
     "url": "https://data.calgary.ca/d/c2es-76ed",
     "labels": {
@@ -109,7 +109,7 @@
       "submissionTime": 1683156831392
     }
   },
-  {
+  "5": {
     "id": "gSyuSab7AdnwIZq2qzm1",
     "url": "https://data.calgary.ca/d/tfmd-grpe",
     "labels": {
@@ -131,4 +131,4 @@
       "submissionTime": 1683156831392
     }
   }
-]
+}
