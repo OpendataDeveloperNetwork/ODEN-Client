@@ -4,8 +4,8 @@
     "labels": {
       "categorized": false,
       "hasCountry": true,
-      "hasRegion": false,
-      "hasCity": false,
+      "hasRegion": true,
+      "hasCity": true,
       "isFilterable": false,
       "landingUrl404d": false
     },
@@ -25,8 +25,8 @@
     "labels": {
       "categorized": false,
       "hasCountry": true,
-      "hasRegion": false,
-      "hasCity": false,
+      "hasRegion": true,
+      "hasCity": true,
       "isFilterable": false,
       "landingUrl404d": false
     },
@@ -109,8 +109,8 @@
     "labels": {
       "categorized": false,
       "hasCountry": true,
-      "hasRegion": false,
-      "hasCity": false,
+      "hasRegion": true,
+      "hasCity": true,
       "isFilterable": false,
       "landingUrl404d": false
     },
