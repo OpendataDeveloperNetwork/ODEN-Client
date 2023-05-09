@@ -403,9 +403,9 @@
     "url": "https://data.calgary.ca/d/2i2v-2r6r",
     "labels": {
       "category": "",
-      "country": "Algeria",
-      "region": "",
-      "city": ""
+      "country": "Canada",
+      "region": "Alberta",
+      "city": "Calgary"
     },
     "data": {
       "schema": "",
@@ -416,9 +416,9 @@
     "url": "https://data.calgary.ca/d/2kp2-hsy7",
     "labels": {
       "category": "",
-      "country": "Algeria",
-      "region": "",
-      "city": ""
+      "country": "Canada",
+      "region": "Alberta",
+      "city": "Calgary"
     },
     "data": {
       "schema": "",
@@ -430,8 +430,8 @@
     "labels": {
       "category": "",
       "country": "Canada",
-      "region": "British Columbia",
-      "city": "Vancouver"
+      "region": "Alberta",
+      "city": "Calgary"
     },
     "data": {
       "schema": "",
@@ -443,8 +443,8 @@
     "labels": {
       "category": "",
       "country": "Canada",
-      "region": "British Columbia",
-      "city": "Vancouver"
+      "region": "Alberta",
+      "city": "Calgary"
     },
     "data": {
       "schema": "",
@@ -456,8 +456,8 @@
     "labels": {
       "category": "",
       "country": "Canada",
-      "region": "British Columbia",
-      "city": "Vancouver"
+      "region": "Alberta",
+      "city": "Calgary"
     },
     "data": {
       "schema": "",
@@ -468,9 +468,9 @@
     "url": "https://data.calgary.ca/d/tfmd-grpe",
     "labels": {
       "category": "",
-      "country": "Algeria",
-      "region": "",
-      "city": ""
+      "country": "Canada",
+      "region": "Alberta",
+      "city": "Calgary"
     },
     "data": {
       "schema": "",
