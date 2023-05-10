@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://data.calgary.ca/d/2i2v-2r6r",
+    "url": "https://data-cityofpg.opendata.arcgis.com/maps/CityofPG::public-art",
     "labels": {
       "categorized": false,
       "hasCountry": true,
@@ -10,14 +10,14 @@
       "landingUrl404d": false
     },
     "data": {
-      "conformSchema": false,
+      "conformSchema": true,
       "schema404d": false,
       "datasets": {}
     },
     "info": {
-      "hasEmail": false,
-      "hasName": false,
-      "submissionTime": 1683670906497
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
     }
   },
   {
@@ -36,34 +36,13 @@
       "datasets": {}
     },
     "info": {
-      "hasEmail": false,
-      "hasName": false,
-      "submissionTime": 1683670906497
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
     }
   },
   {
-    "url": "https://data.calgary.ca/d/tfmd-grpe",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": false,
-      "hasName": false,
-      "submissionTime": 1683670906497
-    }
-  },
-  {
-    "url": "https://data.calgary.ca/d/4jah-h97u",
+    "url": "http://opendata-saskatoon.cloudapp.net/",
     "labels": {
       "categorized": false,
       "hasCountry": true,
@@ -84,7 +63,7 @@
     }
   },
   {
-    "url": "https://data.calgary.ca/d/6933-unw5",
+    "url": "https://opendata.vancouver.ca/explore/dataset/public-art/",
     "labels": {
       "categorized": false,
       "hasCountry": true,
@@ -105,7 +84,431 @@
     }
   },
   {
-    "url": "https://data.calgary.ca/d/c2es-76ed",
+    "url": "https://www.data.act.gov.au/d/j746-krni",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://open.hamilton.ca/maps/a0bcdf73598c424d9e7ef72861dca71c_10",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.tempe.gov/maps/tempegov::public-art-sites",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.honolulu.gov/d/yef5-h88r",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {
+        "json": {
+          "filters": {}
+        }
+      }
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/Recreation-and-Culture/Public-Art/2kp2-hsy7",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://open-kitchenergis.opendata.arcgis.com/maps/KitchenerGIS::public-art-and-industrial-artifacts",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.mississauga.ca/maps/mississauga::public-art-locations-permanent",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.sfgov.org/Culture-and-Recreation/Public-Art-from-1-Art-Program-/cf6e-9e4j",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.weho.org/Art/Urban-Art-Locations/twt6-v6gc",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.honolulu.gov/d/yef5-h88r",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.cityofchicago.org/d/sj6t-9cju",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.honolulu.gov/d/yef5-h88r",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://geohub.cambridge.ca/maps/KitchenerGIS::public-art-and-industrial-artifacts",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.cityofnewyork.us/Housing-Development/Public-Design-Commission-Outdoor-Public-Art-Invent/2pg3-gcaa",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.syr.gov/datasets/8984543a51234cc89b62158e0622b235_0/explore?location=43.036548%2C-76.156383%2C13.84&showTable=true",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data-avl.opendata.arcgis.com/datasets/a80df375f1c0424abcb88bdd474f73f7_0/about",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.charlottenc.gov/maps/charlotte::public-art-4",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data-avl.opendata.arcgis.com/datasets/a80df375f1c0424abcb88bdd474f73f7_0/about",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.austintexas.gov/dataset/City-of-Austin-Public-Art-Collection/uuk6-933w",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.norfolk.gov/Government/Public-Art/k8ry-iqjg",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.seattle.gov/Community/Public-Art-Data/j7sn-tdzk",
     "labels": {
       "categorized": false,
       "hasCountry": true,
