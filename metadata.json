@@ -457,7 +457,7 @@
         "json": {
           "filters": {
             "json": {
-              "correctness": 0.5
+              "correctness": 0.915
             }
           }
         }
