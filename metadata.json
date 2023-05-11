@@ -453,15 +453,7 @@
     "data": {
       "conformSchema": true,
       "schema404d": false,
-      "datasets": {
-        "json": {
-          "filters": {
-            "json": {
-              "correctness": 0.915
-            }
-          }
-        }
-      }
+      "datasets": {}
     },
     "info": {
       "hasEmail": true,
@@ -587,15 +579,7 @@
     "data": {
       "conformSchema": true,
       "schema404d": false,
-      "datasets": {
-        "json": {
-          "filters": {
-            "json": {
-              "correctness": 0.99
-            }
-          }
-        }
-      }
+      "datasets": {}
     },
     "info": {
       "hasEmail": true,
@@ -616,15 +600,7 @@
     "data": {
       "conformSchema": true,
       "schema404d": false,
-      "datasets": {
-        "json": {
-          "filters": {
-            "json": {
-              "correctness": 0.94
-            }
-          }
-        }
-      }
+      "datasets": {}
     },
     "info": {
       "hasEmail": true,
@@ -708,15 +684,7 @@
     "data": {
       "conformSchema": true,
       "schema404d": false,
-      "datasets": {
-        "json": {
-          "filters": {
-            "json": {
-              "correctness": 0.985
-            }
-          }
-        }
-      }
+      "datasets": {}
     },
     "info": {
       "hasEmail": true,
@@ -800,15 +768,7 @@
     "data": {
       "conformSchema": true,
       "schema404d": false,
-      "datasets": {
-        "json": {
-          "filters": {
-            "json": {
-              "correctness": 0.996
-            }
-          }
-        }
-      }
+      "datasets": {}
     },
     "info": {
       "hasEmail": true,
@@ -871,15 +831,7 @@
     "data": {
       "conformSchema": true,
       "schema404d": false,
-      "datasets": {
-        "json": {
-          "filters": {
-            "json": {
-              "correctness": 0.95
-            }
-          }
-        }
-      }
+      "datasets": {}
     },
     "info": {
       "hasEmail": true,
@@ -900,15 +852,7 @@
     "data": {
       "conformSchema": true,
       "schema404d": false,
-      "datasets": {
-        "json": {
-          "filters": {
-            "json": {
-              "correctness": 0.985
-            }
-          }
-        }
-      }
+      "datasets": {}
     },
     "info": {
       "hasEmail": true,
