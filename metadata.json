@@ -455,11 +455,7 @@
       "schema404d": false,
       "datasets": {
         "json": {
-          "filters": {
-            "json": {
-              "correctness": 0.915
-            }
-          }
+          "filters": {}
         }
       }
     },
