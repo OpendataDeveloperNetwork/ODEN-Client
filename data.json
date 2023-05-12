@@ -383,7 +383,7 @@
       "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
       "datasets": {
         "json": {
-          "url": "https://services6.arcgis.com/hM5ymMLbxIyWTjn2/arcgis/rest/services/Public_Art_Permanent_Locations/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson",
+          "url": "https://opendata.vancouver.ca/api/explore/v2.1/catalog/datasets/public-art/exports/json?lang=en&timezone=America%2FLos_Angeles",
           "filters": {
             "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/canada/british-columbia/vancouver/public-art-json-to-json.js"
           }
@@ -552,7 +552,7 @@
     }
   },
   {
-    "url": "https://geohub.cambridge.ca/maps/KitchenerGIS::public-art-and-industrial-artifacts",
+    "url": "https://data.cambridgema.gov/Geographic-Information-GIS-/Public-Art/p4zn-aid4",
     "labels": {
       "category": "public-art",
       "country": "United States",
@@ -563,7 +563,7 @@
       "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
       "datasets": {
         "json": {
-          "url": "https://services1.arcgis.com/qAo1OsXi67t7XgmS/arcgis/rest/services/Public_Art_and_Industrial_Artifacts/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson",
+          "url": "https://data.cambridgema.gov/resource/p4zn-aid4.json",
           "filters": {
             "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/massachusetts/cambridge/public-art-json-to-json.js"
           }
