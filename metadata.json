@@ -921,17 +921,9 @@
       "landingUrl404d": false
     },
     "data": {
-      "conformSchema": true,
+      "conformSchema": false,
       "schema404d": false,
-      "datasets": {
-        "json": {
-          "filters": {
-            "json": {
-              "correctness": 0.802
-            }
-          }
-        }
-      }
+      "datasets": {}
     },
     "info": {
       "hasEmail": true,
