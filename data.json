@@ -1,7 +1,6 @@
 [
   {
     "url": "https://data.calgary.ca/d/2i2v-2r6r",
-    "title": "Green Cart Waste Composition 2020",
     "labels": {
       "category": "Uncategorized",
       "country": "Canada",
@@ -11,11 +10,11 @@
     "data": {
       "schema": "",
       "datasets": {}
-    }
+    },
+    "title": "Green Cart Waste Composition 2020"
   },
   {
     "url": "https://data.calgary.ca/d/2kp2-hsy7",
-    "title": "Public Art",
     "labels": {
       "category": "Uncategorized",
       "country": "Canada",
@@ -25,11 +24,11 @@
     "data": {
       "schema": "",
       "datasets": {}
-    }
+    },
+    "title": "Public Art"
   },
   {
     "url": "https://data.calgary.ca/d/tfmd-grpe",
-    "title": "Trails",
     "labels": {
       "category": "Uncategorized",
       "country": "Canada",
@@ -39,7 +38,8 @@
     "data": {
       "schema": "",
       "datasets": {}
-    }
+    },
+    "title": "Trails"
   },
   {
     "url": "https://data.edmonton.ca/d/2sam-dhc2",
