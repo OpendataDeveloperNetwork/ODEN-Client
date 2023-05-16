@@ -185,14 +185,21 @@
     "url": "https://data.edmonton.ca/d/hp5q-huhx",
     "title": "Highrise Apartment Zoning - Edmonton Insight Community",
     "labels": {
-      "category": "Uncategorized",
+      "category": "public-art",
       "country": "Canada",
-      "region": "Alberta",
-      "city": "Edmonton"
+      "region": "fedgfed",
+      "city": "abcdef"
     },
     "data": {
-      "schema": "",
-      "datasets": {}
+      "schema": "1234",
+      "datasets": {
+        "dsad": {
+          "filters": {
+            "dsad": "dasda"
+          },
+          "url": "dsdas"
+        }
+      }
     }
   },
   {
