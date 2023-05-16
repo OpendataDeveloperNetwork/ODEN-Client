@@ -17,13 +17,13 @@
     "url": "https://data.calgary.ca/d/2kp2-hsy7",
     "title": "Public Art",
     "labels": {
-      "category": "Uncategorized",
+      "category": "public-art",
       "country": "Canada",
       "region": "Alberta",
       "city": "Calgary"
     },
     "data": {
-      "schema": "",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://data.calgary.ca/resource/2kp2-hsy7.json?$query=SELECT%0A%20%20%60art_id%60%2C%0A%20%20%60tab_name%60%2C%0A%20%20%60title%60%2C%0A%20%20%60artist%60%2C%0A%20%20%60address%60%2C%0A%20%20%60modified_dt%60%2C%0A%20%20%60short_desc%60%2C%0A%20%20%60desc1%60%2C%0A%20%20%60desc2%60%2C%0A%20%20%60desc3%60%2C%0A%20%20%60desc4%60%2C%0A%20%20%60desc5%60%2C%0A%20%20%60website%60%2C%0A%20%20%60point%60%2C%0A%20%20%60%3A%40computed_region_4a3i_ccfj%60%2C%0A%20%20%60%3A%40computed_region_4b54_tmc4%60%2C%0A%20%20%60%3A%40computed_region_kxmf_bzkv%60%2C%0A%20%20%60%3A%40computed_region_qeuu_piif%60%2C%0A%20%20%60%3A%40computed_region_xxr9_iwz2%60",
