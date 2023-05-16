@@ -566,7 +566,15 @@
     "data": {
       "conformSchema": true,
       "schema404d": false,
-      "datasets": {}
+      "datasets": {
+        "json": {
+          "filters": {
+            "json": {
+              "correctness": 0.802
+            }
+          }
+        }
+      }
     },
     "info": {
       "hasEmail": true,
