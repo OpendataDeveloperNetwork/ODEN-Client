@@ -1,5 +1,226 @@
 [
   {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::county-department",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/apps/MDC::smart-plan-overview-dash",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-overview-map",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::pmt-nearterm-tbl-service-1",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::pmt-nearterm-feat-service-1",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::artificial-reef-site",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::cartographic-street",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::charter-school",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::artificial-reef",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::head-start",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/apps/MDC::artificial-reefs",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::walk-time-to-smart-plan-station",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-stations",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-station-areas",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-corridors",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-alignments",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::walk-time-to-nearest-smart-plan-station",
+    "labels": {
+      "category": "",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
     "url": "https://data.calgary.ca/d/2i2v-2r6r",
     "title": "Green Cart Waste Composition 2020",
     "labels": {
