@@ -191,15 +191,8 @@
       "city": "abcdef"
     },
     "data": {
-      "schema": "1234",
-      "datasets": {
-        "dsad": {
-          "filters": {
-            "dsad": "dasda"
-          },
-          "url": "dsdas"
-        }
-      }
+      "schema": "",
+      "datasets": {}
     }
   },
   {
