@@ -2,7 +2,7 @@
   {
     "url": "https://data.calgary.ca/d/2i2v-2r6r",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -23,7 +23,7 @@
   {
     "url": "https://data.calgary.ca/d/2kp2-hsy7",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -44,7 +44,7 @@
   {
     "url": "https://data.calgary.ca/d/tfmd-grpe",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -863,11 +863,11 @@
   {
     "url": "https://data-cityofpg.opendata.arcgis.com/maps/CityofPG::public-art",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
-      "isFilterable": false,
+      "isFilterable": true,
       "landingUrl404d": false
     },
     "data": {
@@ -913,11 +913,11 @@
   {
     "url": "https://opendata.vancouver.ca/explore/dataset/public-art/",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
-      "isFilterable": false,
+      "isFilterable": true,
       "landingUrl404d": false
     },
     "data": {
@@ -942,7 +942,7 @@
   {
     "url": "https://www.data.act.gov.au/d/j746-krni",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -963,7 +963,7 @@
   {
     "url": "https://open.hamilton.ca/maps/a0bcdf73598c424d9e7ef72861dca71c_10",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -984,11 +984,11 @@
   {
     "url": "https://data.tempe.gov/maps/tempegov::public-art-sites",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
-      "isFilterable": false,
+      "isFilterable": true,
       "landingUrl404d": false
     },
     "data": {
@@ -1013,11 +1013,11 @@
   {
     "url": "https://data.honolulu.gov/d/yef5-h88r",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
-      "isFilterable": false,
+      "isFilterable": true,
       "landingUrl404d": false
     },
     "data": {
@@ -1042,7 +1042,7 @@
   {
     "url": "https://open-kitchenergis.opendata.arcgis.com/maps/KitchenerGIS::public-art-and-industrial-artifacts",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -1063,7 +1063,7 @@
   {
     "url": "https://data.mississauga.ca/maps/mississauga::public-art-locations-permanent",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -1084,11 +1084,11 @@
   {
     "url": "https://data.sfgov.org/Culture-and-Recreation/Public-Art-from-1-Art-Program-/cf6e-9e4j",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
-      "isFilterable": false,
+      "isFilterable": true,
       "landingUrl404d": false
     },
     "data": {
@@ -1113,7 +1113,7 @@
   {
     "url": "https://data.weho.org/Art/Urban-Art-Locations/twt6-v6gc",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -1134,7 +1134,7 @@
   {
     "url": "https://data.cityofchicago.org/d/sj6t-9cju",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -1176,11 +1176,11 @@
   {
     "url": "https://data.cityofnewyork.us/Housing-Development/Public-Design-Commission-Outdoor-Public-Art-Invent/2pg3-gcaa",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
-      "isFilterable": false,
+      "isFilterable": true,
       "landingUrl404d": false
     },
     "data": {
@@ -1205,7 +1205,7 @@
   {
     "url": "https://data.syr.gov/datasets/8984543a51234cc89b62158e0622b235_0/explore?location=43.036548%2C-76.156383%2C13.84&showTable=true",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -1226,7 +1226,7 @@
   {
     "url": "https://data-avl.opendata.arcgis.com/datasets/a80df375f1c0424abcb88bdd474f73f7_0/about",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -1247,11 +1247,11 @@
   {
     "url": "https://data.charlottenc.gov/maps/charlotte::public-art-4",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
-      "isFilterable": false,
+      "isFilterable": true,
       "landingUrl404d": false
     },
     "data": {
@@ -1276,11 +1276,11 @@
   {
     "url": "https://data.austintexas.gov/dataset/City-of-Austin-Public-Art-Collection/uuk6-933w",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
-      "isFilterable": false,
+      "isFilterable": true,
       "landingUrl404d": false
     },
     "data": {
@@ -1305,7 +1305,7 @@
   {
     "url": "https://data.norfolk.gov/Government/Public-Art/k8ry-iqjg",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -1326,7 +1326,7 @@
   {
     "url": "https://data.seattle.gov/Community/Public-Art-Data/j7sn-tdzk",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
