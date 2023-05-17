@@ -501,7 +501,8 @@
             "json": {
               "correctness": 0.915
             }
-          }
+          },
+          "url404d": false
         }
       }
     },
@@ -519,7 +520,7 @@
       "hasRegion": true,
       "hasCity": true,
       "isFilterable": false,
-      "landingUrl404d": false
+      "landingUrl404d": true
     },
     "data": {
       "conformSchema": false,
@@ -540,7 +541,7 @@
       "hasRegion": true,
       "hasCity": true,
       "isFilterable": false,
-      "landingUrl404d": false
+      "landingUrl404d": true
     },
     "data": {
       "conformSchema": false,
@@ -561,7 +562,7 @@
       "hasRegion": true,
       "hasCity": true,
       "isFilterable": false,
-      "landingUrl404d": false
+      "landingUrl404d": true
     },
     "data": {
       "conformSchema": false,
@@ -971,7 +972,8 @@
             "json": {
               "correctness": 0.802
             }
-          }
+          },
+          "url404d": false
         }
       }
     },
@@ -1042,7 +1044,8 @@
             "json": {
               "correctness": 0.99
             }
-          }
+          },
+          "url404d": false
         }
       }
     },
@@ -1071,7 +1074,8 @@
             "json": {
               "correctness": 0.94
             }
-          }
+          },
+          "url404d": false
         }
       }
     },
@@ -1142,7 +1146,8 @@
             "json": {
               "correctness": 0.985
             }
-          }
+          },
+          "url404d": false
         }
       }
     },
@@ -1234,7 +1239,8 @@
             "json": {
               "correctness": 0.996
             }
-          }
+          },
+          "url404d": false
         }
       }
     },
@@ -1305,7 +1311,8 @@
             "json": {
               "correctness": 0.95
             }
-          }
+          },
+          "url404d": false
         }
       }
     },
@@ -1334,7 +1341,8 @@
             "json": {
               "correctness": 0.985
             }
-          }
+          },
+          "url404d": false
         }
       }
     },
