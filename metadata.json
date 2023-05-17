@@ -1,425 +1,5 @@
 [
   {
-    "url": "https://data.calgary.ca/d/2i2v-2r6r",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": false,
-      "submissionTime": 1684250719536
-    }
-  },
-  {
-    "url": "https://data.calgary.ca/d/2kp2-hsy7",
-    "labels": {
-      "categorized": true,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": false,
-      "submissionTime": 1684250719536
-    }
-  },
-  {
-    "url": "https://data.calgary.ca/d/tfmd-grpe",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": false,
-      "submissionTime": 1684250719536
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::county-department",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/apps/MDC::smart-plan-overview-dash",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-overview-map",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::pmt-nearterm-tbl-service-1",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::pmt-nearterm-feat-service-1",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::artificial-reef-site",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::cartographic-street",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::charter-school",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::artificial-reef",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::head-start",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/apps/MDC::artificial-reefs",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::walk-time-to-smart-plan-station",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-stations",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-station-areas",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-corridors",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-alignments",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
-    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::walk-time-to-nearest-smart-plan-station",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": false,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684271972241
-    }
-  },
-  {
     "url": "https://data.edmonton.ca/d/2sam-dhc2",
     "labels": {
       "categorized": false,
@@ -861,6 +441,48 @@
     }
   },
   {
+    "url": "https://data-cityofpg.opendata.arcgis.com/maps/CityofPG::ocp-8383-trails-proposed",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684343534783
+    }
+  },
+  {
+    "url": "https://data-cityofpg.opendata.arcgis.com/maps/CityofPG::trails",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684343534783
+    }
+  },
+  {
     "url": "https://data-cityofpg.opendata.arcgis.com/maps/CityofPG::public-art",
     "labels": {
       "categorized": true,
@@ -887,6 +509,426 @@
       "hasEmail": true,
       "hasName": true,
       "submissionTime": 1683156831392
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2i2v-2r6r",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": false,
+      "submissionTime": 1684250719536
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2kp2-hsy7",
+    "labels": {
+      "categorized": true,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": false,
+      "submissionTime": 1684250719536
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/tfmd-grpe",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": false,
+      "submissionTime": 1684250719536
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::county-department",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/apps/MDC::smart-plan-overview-dash",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-overview-map",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::pmt-nearterm-tbl-service-1",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::pmt-nearterm-feat-service-1",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::artificial-reef-site",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::cartographic-street",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::charter-school",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::artificial-reef",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::head-start",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/apps/MDC::artificial-reefs",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::walk-time-to-smart-plan-station",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-stations",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-station-areas",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-corridors",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::smart-plan-alignments",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
+    }
+  },
+  {
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::walk-time-to-nearest-smart-plan-station",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684271972241
     }
   },
   {
