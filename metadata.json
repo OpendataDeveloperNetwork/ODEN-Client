@@ -2,7 +2,7 @@
   {
     "url": "https://data.calgary.ca/d/2i2v-2r6r",
     "labels": {
-      "categorized": true,
+      "categorized": false,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -44,7 +44,7 @@
   {
     "url": "https://data.calgary.ca/d/tfmd-grpe",
     "labels": {
-      "categorized": true,
+      "categorized": false,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
