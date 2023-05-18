@@ -1,5 +1,68 @@
 [
   {
+    "url": "https://data.calgary.ca/d/2i2v-2r6r",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": true,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": false,
+      "submissionTime": 1684250719536
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2kp2-hsy7",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": true,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": true,
+      "submissionTime": 1684343716629
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/tfmd-grpe",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": true,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": false,
+      "submissionTime": 1684250719536
+    }
+  },
+  {
     "url": "https://data.edmonton.ca/d/2sam-dhc2",
     "labels": {
       "categorized": false,
@@ -438,69 +501,6 @@
       "hasEmail": false,
       "hasName": false,
       "submissionTime": 1684362800001
-    }
-  },
-  {
-    "url": "https://data.calgary.ca/d/2i2v-2r6r",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": true,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": false,
-      "submissionTime": 1684250719536
-    }
-  },
-  {
-    "url": "https://data.calgary.ca/d/2kp2-hsy7",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": true,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": true,
-      "submissionTime": 1684343716629
-    }
-  },
-  {
-    "url": "https://data.calgary.ca/d/tfmd-grpe",
-    "labels": {
-      "categorized": false,
-      "hasCountry": true,
-      "hasRegion": true,
-      "hasCity": true,
-      "isFilterable": false,
-      "landingUrl404d": false
-    },
-    "data": {
-      "conformSchema": false,
-      "schema404d": true,
-      "datasets": {}
-    },
-    "info": {
-      "hasEmail": true,
-      "hasName": false,
-      "submissionTime": 1684250719536
     }
   },
   {
