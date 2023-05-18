@@ -964,18 +964,9 @@
       "landingUrl404d": false
     },
     "data": {
-      "conformSchema": true,
+      "conformSchema": false,
       "schema404d": false,
-      "datasets": {
-        "json": {
-          "filters": {
-            "json": {
-              "correctness": 0.802
-            }
-          },
-          "url404d": false
-        }
-      }
+      "datasets": {}
     },
     "info": {
       "hasEmail": true,
