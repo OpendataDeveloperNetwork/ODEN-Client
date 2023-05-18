@@ -770,5 +770,19 @@
         }
       }
     }
+  },
+  {
+    "data": {
+      "datasets": {
+        "json": {
+          "filters": {
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/canada/alberta/calgary/public-art-json-to-json.js"
+          },
+          "url": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/canada/alberta/calgary/public-art-json-to-json.js"
+        }
+      }
+    },
+    "labels": {},
+    "url": "https://gis-mdc.opendata.arcgis.com/maps/MDC::pmt-nearterm-feat-service-1"
   }
 ]
