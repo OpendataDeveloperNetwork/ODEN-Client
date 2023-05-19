@@ -1,5 +1,47 @@
 [
   {
+    "url": "https://data.calgary.ca/d/2i2v-2r6r",
+    "title": "Green Cart Waste Composition 2020",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Canada",
+      "region": "Alberta",
+      "city": "Calgary"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2kp2-hsy7",
+    "title": "Public Art",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Canada",
+      "region": "Alberta",
+      "city": "Calgary"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/tfmd-grpe",
+    "title": "Trails",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Canada",
+      "region": "Alberta",
+      "city": "Calgary"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
     "url": "https://data-cityofpg.opendata.arcgis.com/maps/CityofPG::ocp-8383-trails-proposed",
     "title": "OCP 8383 Trails Proposed",
     "labels": {
