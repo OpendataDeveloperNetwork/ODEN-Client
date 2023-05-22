@@ -23,11 +23,11 @@
       "city": "Calgary"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/canada/alberta/calgary/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/canada/alberta/calgary/public-art-json-to-json.js"
           },
           "url": "https://data.calgary.ca/resource/2kp2-hsy7.json?$query=SELECT%0A%20%20%60art_id%60%2C%0A%20%20%60tab_name%60%2C%0A%20%20%60title%60%2C%0A%20%20%60artist%60%2C%0A%20%20%60address%60%2C%0A%20%20%60modified_dt%60%2C%0A%20%20%60short_desc%60%2C%0A%20%20%60desc1%60%2C%0A%20%20%60desc2%60%2C%0A%20%20%60desc3%60%2C%0A%20%20%60desc4%60%2C%0A%20%20%60desc5%60%2C%0A%20%20%60website%60%2C%0A%20%20%60point%60%2C%0A%20%20%60%3A%40computed_region_4a3i_ccfj%60%2C%0A%20%20%60%3A%40computed_region_4b54_tmc4%60%2C%0A%20%20%60%3A%40computed_region_kxmf_bzkv%60%2C%0A%20%20%60%3A%40computed_region_qeuu_piif%60%2C%0A%20%20%60%3A%40computed_region_xxr9_iwz2%60"
         }
@@ -86,12 +86,12 @@
       "city": "Prince George"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://services2.arcgis.com/CnkB6jCzAsyli34z/arcgis/rest/services/OpenData_Parks/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/canada/british-columbia/prince-george/public-art-geojson-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/canada/british-columbia/prince-george/public-art-geojson-to-json.js"
           }
         }
       }
@@ -106,12 +106,12 @@
       "city": "Canberra"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://www.data.act.gov.au/resource/j746-krni.json",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/australia/australian-capital-territory/canberra/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/australia/australian-capital-territory/canberra/public-art-json-to-json.js"
           }
         }
       }
@@ -126,12 +126,12 @@
       "city": "Calgary"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://data.calgary.ca/resource/2kp2-hsy7.json",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/canada/alberta/calgary/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/canada/alberta/calgary/public-art-json-to-json.js"
           }
         }
       }
@@ -146,12 +146,12 @@
       "city": "Vancouver"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://opendata.vancouver.ca/api/explore/v2.1/catalog/datasets/public-art/exports/json?lang=en&timezone=America%2FLos_Angeles",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/canada/british-columbia/vancouver/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/canada/british-columbia/vancouver/public-art-json-to-json.js"
           }
         }
       }
@@ -166,12 +166,12 @@
       "city": "Hamilton"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://spatialsolutions.hamilton.ca/webgis/rest/services/OpenData/Tabular_Collection_3/MapServer/10/query?outFields=*&where=1%3D1&f=json",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/canada/ontario/hamilton/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/canada/ontario/hamilton/public-art-json-to-json.js"
           }
         }
       }
@@ -186,12 +186,12 @@
       "city": "Kitchener"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://services1.arcgis.com/qAo1OsXi67t7XgmS/arcgis/rest/services/Public_Art_and_Industrial_Artifacts/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/canada/ontario/kitchener/public-art-geojson-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/canada/ontario/kitchener/public-art-geojson-to-json.js"
           }
         }
       }
@@ -206,12 +206,12 @@
       "city": "Mississauga"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://services6.arcgis.com/hM5ymMLbxIyWTjn2/arcgis/rest/services/Public_Art_Permanent_Locations/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/canada/ontario/mississauga/public-art-geojson-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/canada/ontario/mississauga/public-art-geojson-to-json.js"
           }
         }
       }
@@ -226,12 +226,12 @@
       "city": "Tempe"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://services.arcgis.com/lQySeXwbBg53XWDi/arcgis/rest/services/Public_Art_Sites/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/arizona/tempe/public-art-geojson-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/united-states/arizona/tempe/public-art-geojson-to-json.js"
           }
         }
       }
@@ -246,12 +246,12 @@
       "city": "San Francisco"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://data.sfgov.org/resource/cf6e-9e4j.json",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/california/san-francisco/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/united-states/california/san-francisco/public-art-json-to-json.js"
           }
         }
       }
@@ -266,12 +266,12 @@
       "city": "West Hollywood"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://data.weho.org/resource/twt6-v6gc.json",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/california/west-hollywood/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/united-states/california/west-hollywood/public-art-json-to-json.js"
           }
         }
       }
@@ -286,12 +286,12 @@
       "city": "Honolulu"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://data.honolulu.gov/resource/yef5-h88r.json",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/hawaii/honolulu/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/united-states/hawaii/honolulu/public-art-json-to-json.js"
           }
         }
       }
@@ -306,12 +306,12 @@
       "city": "Chicago"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://data.cityofchicago.org/resource/sj6t-9cju.json",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/illinois/chicago/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/united-states/illinois/chicago/public-art-json-to-json.js"
           }
         }
       }
@@ -326,12 +326,12 @@
       "city": "Cambridge"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://data.cambridgema.gov/resource/p4zn-aid4.json",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/massachusetts/cambridge/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/united-states/massachusetts/cambridge/public-art-json-to-json.js"
           }
         }
       }
@@ -346,12 +346,12 @@
       "city": "New York City"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://data.cityofnewyork.us/resource/2pg3-gcaa.json",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/new-york/new-york-city/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/united-states/new-york/new-york-city/public-art-json-to-json.js"
           }
         }
       }
@@ -366,12 +366,12 @@
       "city": "Syracuse"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://services6.arcgis.com/bdPqSfflsdgFRVVM/arcgis/rest/services/Syracuse_Public_Art_(2022)/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/new-york/syracuse/public-art-geojson-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/united-states/new-york/syracuse/public-art-geojson-to-json.js"
           }
         }
       }
@@ -386,12 +386,12 @@
       "city": "Asheville"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://arcgis.ashevillenc.gov/arcgis/rest/services/Arts_Culture_History/PublicArt/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/north-carolina/asheville/public-art-geojson-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/united-states/north-carolina/asheville/public-art-geojson-to-json.js"
           }
         }
       }
@@ -406,12 +406,12 @@
       "city": "Charlotte"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://services.arcgis.com/9Nl857LBlQVyzq54/arcgis/rest/services/Public_Art/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/north-carolina/charlotte/public-art-geojson-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/united-states/north-carolina/charlotte/public-art-geojson-to-json.js"
           }
         }
       }
@@ -426,12 +426,12 @@
       "city": "Austin"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://data.austintexas.gov/resource/uuk6-933w.json",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/texas/austin/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/united-states/texas/austin/public-art-json-to-json.js"
           }
         }
       }
@@ -446,12 +446,12 @@
       "city": "Norfolk"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://data.norfolk.gov/resource/k8ry-iqjg.json",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/virginia/norfolk/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/united-states/virginia/norfolk/public-art-json-to-json.js"
           }
         }
       }
@@ -466,12 +466,12 @@
       "city": "Seattle"
     },
     "data": {
-      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "url": "https://data.seattle.gov/resource/j7sn-tdzk.json",
           "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/dev/filters/united-states/washington/seattle/public-art-json-to-json.js"
+            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/united-states/washington/seattle/public-art-json-to-json.js"
           }
         }
       }
