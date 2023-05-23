@@ -1,5 +1,75 @@
 [
   {
+    "url": "https://data.calgary.ca/d/23m4-i42g",
+    "title": "Council Calendar",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2axz-xm4q",
+    "title": "Transit LRT Stations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2bak-dk2r",
+    "title": "Calgary.ca Web Analytics Past 30 Days",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2bwu-t32v",
+    "title": "Speed Limits",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2fxp-yrhj",
+    "title": "Census By Ward 2001",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
     "url": "https://data.calgary.ca/d/2i2v-2r6r",
     "title": "Green Cart Waste Composition 2020",
     "labels": {
@@ -7,6 +77,34 @@
       "country": "Canada",
       "region": "Alberta",
       "city": "Calgary"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2jz8-wskw",
+    "title": "Fire Emergency Response Calls Year to Date",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2keb-d769",
+    "title": "Calgary Equity Index Ranges",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
     },
     "data": {
       "schema": "",
@@ -35,6 +133,4486 @@
     }
   },
   {
+    "url": "https://data.calgary.ca/d/2msm-bgzt",
+    "title": "Pedestrian Collision Injuries",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2pm8-2956",
+    "title": "Census By Ward 2012",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2rmy-g65b",
+    "title": "On-Street Residential Parking Zones",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2upi-evrj",
+    "title": "Calgary Population Components",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/33vi-ew4s",
+    "title": "Land Use Redesignation Applications",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/35ra-9556",
+    "title": "Traffic Incidents",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/37ta-b9cj",
+    "title": "2016 Truck Volume Percentage",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/39t3-dqne",
+    "title": "Calgary.ca Web Analytics Top Downloads Past 30 Days",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/3ft9-tk4d",
+    "title": "Calgary Transit Scheduling Data (May 8-June 23, 2019)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/3u3x-hrc7",
+    "title": "Plus 15",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/3x6m-4vs7",
+    "title": "City of Calgary Newsroom",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/44pa-57w4",
+    "title": "Central Business District Cordon Count 2018",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/47bt-eefd",
+    "title": "Hydrology",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/4bsw-nn7w",
+    "title": "Current Year Property Assessments (Parcel)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/4c3g-8je3",
+    "title": "Forecast Population and Jobs by Transportation Zone 2015 - 2076",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/4c8i-ruhm",
+    "title": "Census By Ward 2016",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/4dx8-rtm5",
+    "title": "Street Centreline",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/4evm-wx9a",
+    "title": "Social Disorder Statistics",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/4jah-h97u",
+    "title": "Current Traffic Incidents",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/4uie-p5fg",
+    "title": "Parks Water Delivery Coverage",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/4ur7-wsgc",
+    "title": "Historical Property Assessments (Parcel)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/4uv7-r7pt",
+    "title": "Voting Subdivisions - 2021 Municipal Election",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/4v8s-3kss",
+    "title": "Snow and Ice Clearing Priority Routes",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/4y6b-yvdc",
+    "title": "Green Line Stations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/52zb-xa6s",
+    "title": "General Election 2021 - Mayor by Ward (Advance Vote)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5843-8tyj",
+    "title": "Assessment Subproperty Use Codes",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5cuw-vu5g",
+    "title": "2015 Normalized Bike 16h Volumes",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5dgy-88cq",
+    "title": "Licensed Pets",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5eng-mjuy",
+    "title": "Central Business District Cordon Count 2015",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5fdg-ifgr",
+    "title": "River Levels and Flows",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5fk8-xqeu",
+    "title": "Hydrology - Line",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5fsi-n9xm",
+    "title": "City of Calgary Careers",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5ira-8898",
+    "title": "Census By Ward 2009",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5ke3-c93z",
+    "title": "Solar Potential 2012-2017 (images-.tiff)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5pvv-k7hn",
+    "title": "Plumbing Permits and Inspections",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5qgc-b482",
+    "title": "Water Hydrants",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5tdg-3k43",
+    "title": "Census By Ward 2006",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5xvz-5s7a",
+    "title": "Finance Long Term Debt",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/5yff-va5a",
+    "title": "Road Marking Lines",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/64iy-rpqq",
+    "title": "Hours of service provided by Calgary Transit",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/6933-unw5",
+    "title": "Development Permits",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/6crx-xp99",
+    "title": "1:8 Flood Map (12.5% chance of occurring in any year)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/6de6-6s29",
+    "title": "General Election 2021 - Senate by Station (Advance Vote)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/6eun-p5zf",
+    "title": "Pathways Connector Data",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/6nu3-wt4w",
+    "title": "Finance Investment Returns",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/6qn4-9vc6",
+    "title": "Neighbourhood Speed Limits",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/6u2m-pere",
+    "title": "Census Districts (effective October 16, 2017)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/6ue7-ygzk",
+    "title": "Parks Cemeteries",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/6wve-2ets",
+    "title": "Traffic Volumes for 2016",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/6y2r-upvw",
+    "title": "Census By Ward 2003",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/6zvc-wgqp",
+    "title": "Alcohol in the Park Boundaries",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/75pg-pxz2",
+    "title": "Shared Mobility Pilot - Trip Segment Counts",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/78gh-n26t",
+    "title": "Community Crime Statistics",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/7cvb-8ame",
+    "title": "Monthly Economic Indicators",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/7g5f-dkmi",
+    "title": "Calgary Equity Index Overlay Statistics",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/7mc8-zqjc",
+    "title": "Riparian Areas - Variable Width",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/7ta2-pupq",
+    "title": "Civic census 2016 - Modes of Travel to Work",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/7tad-i2m6",
+    "title": "Civic census 2011 - Modes of Travel to Work",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/7tax-5vsg",
+    "title": "Habitat",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/7u2t-3wxf",
+    "title": "Calgary Emergency Shelters Daily Occupancy",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/7uyz-jgnh",
+    "title": "Forward Sortation Area 2011",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/7v8c-cjjm",
+    "title": "Parks Amenity Equipment",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/83ga-sdh2",
+    "title": "Traffic Signal Signs",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/848s-4m4z",
+    "title": "Community Crime and Disorder Statistics (2012-2019)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/86mc-9jh2",
+    "title": "Police Districts",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/89m2-urg9",
+    "title": "Transportation Utility Corridor",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/8ced-xbvn",
+    "title": "Building Inspections Results",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/8efa-as6u",
+    "title": "Tree Canopy 2012",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/8mci-3bzr",
+    "title": "Micromobility Locations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/8rd9-gix2",
+    "title": "Development Permit Public Notices",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/8rfi-nymv",
+    "title": "1:50 Flood Map (2% chance of occurring in any year)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/8twd-upbv",
+    "title": "Building Energy Benchmarking - City of Calgary",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/8wgh-srzu",
+    "title": "Parks Bollards",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/8xc4-74f9",
+    "title": "Rivers And Streams - Environmental Reserve Setback Guideline",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/929h-pxfz",
+    "title": "Forward Sortation Area 2021",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/94wb-umnh",
+    "title": "Parks Water Features",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/97dx-rvjp",
+    "title": "Parks Signage",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/99yf-6c5u",
+    "title": "Historic Resource",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/9bze-mzx6",
+    "title": "Compensation Disclosure List",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/9hbw-zj92",
+    "title": "School Parking Zones",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/9m8z-ibsn",
+    "title": "Transit Incident Log",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/9qye-mibh",
+    "title": "School Enrolment Data",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/9vii-yr3z",
+    "title": "Census By Ward 2013",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/9zvu-p8uz",
+    "title": "Parcel Address",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/a2g3-5t6s",
+    "title": "Alberta Township Sections",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/a84c-t6j3",
+    "title": "Snow Route Parking Bans",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/aeb8-fh2w",
+    "title": "Travel Times",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/aggn-khkx",
+    "title": "City of Calgary Bylaws",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ainq-wn9v",
+    "title": "Tree Canopy 2015",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/aj43-35ks",
+    "title": "Census By Ward 2014",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/am7c-qe3u",
+    "title": "Calgary Transit Realtime Vehicle Positions GTFS-RT",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ap4r-bav3",
+    "title": "Police Service",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/arf6-qysm",
+    "title": "311 Service Requests - Current Year",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/as2i-6z3n",
+    "title": "Citywide Land Cover",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/atsy-3a4w",
+    "title": "2017 Official Election Results by Voting Station",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/au4g-xjwh",
+    "title": "Ward Boundaries 2017-2021",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/avbp-2r3h",
+    "title": "Tracks - LRT Centre Line",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/b7du-6647",
+    "title": "Tracks - Non- LRT Centre Line",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/bdez-pds9",
+    "title": "Fire Emergency Response Calls",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/bdu9-amk8",
+    "title": "Playground Equipment",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/beky-kpay",
+    "title": "Block Profile Points",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/bhnd-tp2r",
+    "title": "Playground Zones",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/bmdy-qq3k",
+    "title": "Fire Response Time Year to Date",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/btc8-9kef",
+    "title": "Citizen Satisfaction Survey (2018-2021)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/bwkw-h2bc",
+    "title": "Calgary Bike and Scooter Share",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/bxgr-t8xb",
+    "title": "Ward Boundaries for 2021 October 18 General Election",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/bz9r-sbk8",
+    "title": "Impervious Surface 2014",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/c2es-76ed",
+    "title": "Building Permits",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/c683-z2p7",
+    "title": "2018 Vote of the Electors Unofficial Results",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/c7sr-67sr",
+    "title": "Current Year Rainfall",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/cchr-krqg",
+    "title": "3D Buildings - Citywide",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/cd4k-d8nb",
+    "title": "Other QoL Indicators",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/cdk9-nhne",
+    "title": "Road Stencils",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/cdrc-r4u8",
+    "title": "Mechanical (HVAC) Permits and Inspections",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/cezi-uufs",
+    "title": "Snow clearing locations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/cfrr-izv5",
+    "title": "Fire Response Flame Spread",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/cq6k-mmku",
+    "title": "Tracks - Non- LRT",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/cqsb-2hhg",
+    "title": "Fire Stations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/crbp-innf",
+    "title": "Corporate Energy Consumption",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/csgq-e555",
+    "title": "Solar Photovoltaic Sites",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/czxm-idex",
+    "title": "STOP",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/d3xr-mc4m",
+    "title": "Parks Water Bodies",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/d52x-nvay",
+    "title": "Calgary Public Library Tours And Outreach Program Attendance 2014",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/d6us-rmnf",
+    "title": "Fire Emergency Response Calls Daily",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/d8k6-ide9",
+    "title": "Census by Community 2017",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/d9kv-swk3",
+    "title": "Historical Rainfall",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/da6k-wpxb",
+    "title": "Parks Sport Equipment",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/dmrk-q4ck",
+    "title": "Calgary.ca Web Analytics Past 7 Days",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/dpcu-jr23",
+    "title": "Water Main Breaks",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/dsje-mu8i",
+    "title": "Central Business District Cordon Count 2016",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/dv2f-necx",
+    "title": "Intersection Safety Cameras",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/e2ak-u5n7",
+    "title": "Parks Turf",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/eaex-8bh9",
+    "title": "Fire Response Time",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/eink-tu9p",
+    "title": "Digital Elevation Model (DEM) - ASCII 2M",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ekzc-4ss8",
+    "title": "Calgary Transit Fleet List",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/enr4-crti",
+    "title": "Off Leash Dog Area",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/erra-cqp9",
+    "title": "City Boundary",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/erx5-9f9e",
+    "title": "Census By Ward 2007",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/eymx-4za9",
+    "title": "Tree Canopy 2020",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/f2h8-nduu",
+    "title": "Calgary Public Library Program Information 2015",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/f6ia-q8cs",
+    "title": "Police Zones",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/fbu6-4bnu",
+    "title": "Census By Ward 2010",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/fbvs-aj5g",
+    "title": "Public Bicycle Parking",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/fd9t-tdn2",
+    "title": "School Locations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/fhmw-xp86",
+    "title": "2013 Election Results by Voting Station",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/fn5e-dzq9",
+    "title": "Water Annual River Withdrawals",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/fr8b-ecfn",
+    "title": "2017 Normalized Bike 16h Volumes",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/frfp-tka5",
+    "title": "2016 Census of Canada - Immigrant Admission Category",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/fu7z-c7ar",
+    "title": "Plus 15 Bridges",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/fwyk-8pth",
+    "title": "Parks Wayfinder Garbage and Recycle",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/fyid-twcw",
+    "title": "Riparian Management Zones",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/fypf-963h",
+    "title": "Calgary Restaurant Inspections",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/g2n2-qnvh",
+    "title": "City Quadrants",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/g4gb-t7bt",
+    "title": "Business Revitalization Zones",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/g5a4-wnrh",
+    "title": "Voting Stations - 2021 Municipal Election",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/g5qu-w8fb",
+    "title": "Noise Exposure Forecast Contours",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/g6dp-uymi",
+    "title": "2013 Bike Normalized Volume",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/g868-hqkz",
+    "title": "Tree Canopy 2013",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/g9nd-fuwf",
+    "title": "Historic City Annexation",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/g9s5-qhu5",
+    "title": "Air Quality Data (near real-time)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ga6m-7k2i",
+    "title": "Civic Census by Ward, Age and Gender",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/gc28-8znr",
+    "title": "1:1000 Flood Map (0.1% chance of occurring in any year)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ghvn-cts5",
+    "title": "Central Business District Cordon Count 2019",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/gkju-5p9e",
+    "title": "Parks Hard Surface Areas",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/gs4m-mdc2",
+    "title": "Calgary Transit Realtime Trip Updates GTFS-RT",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/gtyk-57ky",
+    "title": "Municipal Development Plan Urban Structure",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/gvs2-78b3",
+    "title": "RTM Road Network Scenarios",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/gzkz-5k9a",
+    "title": "Short Term Rentals",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/h2nm-bsrz",
+    "title": "Official Results - General Election 2021 - Referendum Questions",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/h3h6-kgme",
+    "title": "Community Disorder Statistics",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/h5nx-7iyn",
+    "title": "Transit Peace Officer Calls",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hau8-f2rz",
+    "title": "Central Business District Cordon Count 2013",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hdh8-zy77",
+    "title": "Calgary Public Library Catchment Areas",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hfwb-eab8",
+    "title": "Census by Community 2016",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hh57-r3mr",
+    "title": "Parks Monuments",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/himp-urp7",
+    "title": "Traffic Incidents Archive 2017",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hj7c-iwum",
+    "title": "2016 Census of Canada - Citizenship",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hjim-jabu",
+    "title": "Census By Ward 1999",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hk5h-uv5k",
+    "title": "311 Call Centre",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hktr-86wa",
+    "title": "1:20 Flood Map (5% chance of occurring in any year)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hpnd-riq4",
+    "title": "Calgary Transit Routes",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hvhm-v5dn",
+    "title": "Airport Vicinity Protection Area",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hvq3-hmb9",
+    "title": "Watershed surface water quality sampling locations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hxeu-d57b",
+    "title": "Central Business District Cordon Count 2014",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hxfu-6d96",
+    "title": "Recreation Facilities",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hxgg-rpad",
+    "title": "Crosswalks",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/hzux-dsmm",
+    "title": "Central Business District Cordon Count 2017",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/i74e-mxx5",
+    "title": "Lobbyist Information",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/i89d-xgp7",
+    "title": "Planting Beds (Maintained as per LMA)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/i9mt-qafb",
+    "title": "Impervious Surface 2018",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/iahh-g8bj",
+    "title": "311 Service Requests",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ibk8-8j45",
+    "title": "Official Results - General Election 2013",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ic67-rkd7",
+    "title": "Tracks - LRT",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/icm7-bsyz",
+    "title": "Historical Civic Census (1968-1997)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/idp8-ukcf",
+    "title": "Census By Ward 2015",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/iema-jbc4",
+    "title": "Calgary Transit Ridership",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/iepb-ykvd",
+    "title": "Annual Economic Indicators",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ievp-qtfg",
+    "title": "Calgary Public Library Tours And Outreach Programs 2014",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ijd2-3nw8",
+    "title": "Parks Administrative Boundaries",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ikeb-n5bc",
+    "title": "Parks Seating",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/immi-c5nn",
+    "title": "Tree Canopy 2017",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ipm6-y48y",
+    "title": "Calgary Eats Farm Stand Program",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/iqki-fcm6",
+    "title": "Impervious Surface 2016",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ivif-w2jr",
+    "title": "1:500 Flood Map (0.2% chance of occurring in any year)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/iyqi-dvvj",
+    "title": "1:5 Flood Map (20% chance of occurring in any year)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/iz86-6y5z",
+    "title": "5311 Call Centre - Raw dataset",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/izjs-4mru",
+    "title": "Calgary Regional Transportation Model RTM Zones",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/j3yz-fb4u",
+    "title": "Community Boundaries 2011",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/j6xz-k6bj",
+    "title": "General Election 2021 - Public School Board by Ward (Advance Vote)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/j7mp-h975",
+    "title": "Water Single Family Consumption",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/j9ps-fyst",
+    "title": "Community Points",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ja63-3f84",
+    "title": "2014 Bike Normalized Volume",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jccd-g9r2",
+    "title": "Planting Beds (Not Maintained)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jd78-wxjp",
+    "title": "Communities by Ward",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jh3k-f448",
+    "title": "Municipal Development Plan Primary Transit Network Lines",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jhgn-ynqj",
+    "title": "Calgary Transit Realtime Service Alerts GTFS-RT",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jicz-mxiz",
+    "title": "Shared Mobility Pilot Trips",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jjkg-kv4n",
+    "title": "Parks Plumbing Fixtures",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jjqk-9b73",
+    "title": "Calgary Bikeways",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jkyn-p9x4",
+    "title": "Vehicle Position Log",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jmrf-j94e",
+    "title": "Pets Impound Outcomes",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jnaq-56h7",
+    "title": "Road Marking Symbols",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jq4t-b745",
+    "title": "Waste and Recycling Collection Schedule",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jrtv-xvvd",
+    "title": "Calgary Seniors Directory",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jtpc-xgsh",
+    "title": "Historical Community Populations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jw79-78tx",
+    "title": "Calgary Park and Bike Sites",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/jwn6-r58y",
+    "title": "Secondary Suites",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/k7ky-3bh5",
+    "title": "Education Performance",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/k7p9-kppz",
+    "title": "Traffic Cameras",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/k85e-i265",
+    "title": "Residential Solar Photovoltaic (PV) System Potential",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/kami-qbfh",
+    "title": "Parks Sites",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/kc7y-cs4i",
+    "title": "Alcohol in the Park Seating",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/kgh7-mhue",
+    "title": "Citizen Satisfaction Survey (2016-2017)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/kgnk-xvnd",
+    "title": "General Election 2021 - Separate School Board by Ward (Advance Vote)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/kiuh-sx23",
+    "title": "Official Results - General Election 2021",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/kquu-znqr",
+    "title": "Census By Ward 2011",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/kvbq-pgje",
+    "title": "Sport Barriers",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/kymh-8ust",
+    "title": "DETAIL",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/kzcd-pcxn",
+    "title": "Shared Mobility Pilot - Origin and Destination Grid",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/m7gu-3xk5",
+    "title": "Community-wide Greenhouse Gas (GHG) Inventory",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/m84u-n3rp",
+    "title": "Subdivision and Development Appeal Board (SDAB) Decisions",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/m9hp-7qj2",
+    "title": "Impervious Surface 2010",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/m9y7-ui7j",
+    "title": "Calgary Public Library Locations and Hours",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/maew-f6tk",
+    "title": "Lanelines",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/mdn5-ybwg",
+    "title": "SAMPLE",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/mjit-gete",
+    "title": "Ward Boundaries 2013-2017",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/mmhp-hpsq",
+    "title": "Traffic Incidents Archive 2016",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/mn2n-4z98",
+    "title": "Tree Canopy 2022",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/mngv-ufjz",
+    "title": "Regulatory Flood Hazard Map Steplines",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/muzh-c9qc",
+    "title": "Calgary Transit Stops",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/mxuz-hecb",
+    "title": "Parks Water Delivery",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/myiv-ju9n",
+    "title": "Assessment Review Board Complaints",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/mz2j-7eb5",
+    "title": "Community Sectors",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/n2w2-2k2q",
+    "title": "Forward Sortation Area 2016",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/n52m-2ku5",
+    "title": "Central Business District Cordon Count 2012",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/n625-9k5x",
+    "title": "City of Calgary Events",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/nbta-7ws9",
+    "title": "Prosperous City Indicators",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/nfj5-6tde",
+    "title": "ROUTE",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/nfvn-x8e2",
+    "title": "Waste and Recycling Services Performance Measures",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/npk7-z3bj",
+    "title": "Calgary Transit Scheduling Data",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ns42-w5vx",
+    "title": "TRIP",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ntse-tznh",
+    "title": "1:10 Flood Map (10% chance of occurring in any year)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/nvuz-qykn",
+    "title": "Traffic Volumes for 2017",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/p2fv-5peq",
+    "title": "Waste Composition 2019 - Garbage",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/p6id-9cjb",
+    "title": "2013 Calgary Election Summary Results",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/p84b-7zbi",
+    "title": "Assessments by Community",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/pede-tz7g",
+    "title": "Bike and Pedestrian Counts",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/phfs-dvdq",
+    "title": "Snow clearing lines",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/pm3p-838w",
+    "title": "Calgary Transit Stops By Route Cross Reference",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ppdg-jguj",
+    "title": "Knowledge of radon and testing Survey",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/pryy-7s2m",
+    "title": "Census by Ward 2018",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ps5q-maip",
+    "title": "Voting Stations (Effective October 16,  2017)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/pwur-wvcq",
+    "title": "2015-2018 Operating Budget (Approved November 2014)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/pzc6-z5uz",
+    "title": "Collection System Levels and Flows",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/q6ss-6wna",
+    "title": "Central Business District Cordon Count 2021",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/q8j7-9rrb",
+    "title": "2016 Normalized Bike 16h Volumes",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/qcug-xuqg",
+    "title": "Playground Fall Surface",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/qdxh-qngy",
+    "title": "Child Care Information",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/qe4n-g76r",
+    "title": "Census By Ward 2017",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/qe6k-p9nh",
+    "title": "Land Use Districts",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/qeqv-tb2c",
+    "title": "Traffic Volumes for 2019",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/qfna-5kbg",
+    "title": "Census By Community 2017",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/qgzu-cewh",
+    "title": "Fair Entry Subsidy Assistance Management System",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/qndb-27qm",
+    "title": "Parks Pathways",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/qr97-4jvx",
+    "title": "Traffic Signals",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/qseb-xcrr",
+    "title": "Municipal Development Plan Primary Transit Network Points",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/qspr-4is2",
+    "title": "Calgary.ca Web Analytics Yesterday",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/qwju-mqym",
+    "title": "City Planning Sectors",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/qzsa-aeqp",
+    "title": "Residential Parking Zones Polygons",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/rf6y-djy9",
+    "title": "General Election 2021 - Equalization Referendum by Station",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/rgsu-3v7u",
+    "title": "Impervious Surface 2021",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/rh7p-2ad8",
+    "title": "2016 Census of Canada - Top 5 Languages spoken most often at home by Community",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/rhkg-vwwp",
+    "title": "On-Street Parking Zones",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/rkfr-buzb",
+    "title": "Census by Community 2019",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/rmad-dcwz",
+    "title": "Census By Ward 2002",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/rmai-qvzh",
+    "title": "Civic Census Results 1958-2019",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/rrgu-vddg",
+    "title": "Voting Subdivisions",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ruq3-99hx",
+    "title": "Council and Committee Votes",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/s6f4-ijrf",
+    "title": "EMS Stations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/s7ju-4q2v",
+    "title": "Central Business District Cordon Count 2022",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/s9g3-2u2e",
+    "title": "Citizen Satisfaction Survey - Perception of Services",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/sebe-fds7",
+    "title": "2016 Census of Canada - Country of birth of immigrants",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/seqt-d3id",
+    "title": "Census by Ward 2019",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/set9-futw",
+    "title": "Civic Census by Community and Dwelling Structure",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/sizs-hgef",
+    "title": "Road Construction Projects",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/snnx-73ca",
+    "title": "Official Results - General Election 2021 - Senate",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/sqfh-d2dp",
+    "title": "Flood extents from June 22, 2013",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/sqwx-tjsy",
+    "title": "Permanent station locations for Traffic counts",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/surr-xmvs",
+    "title": "Community District Boundaries",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/svbi-k49z",
+    "title": "Land Use Designation Codes",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/szzc-mugz",
+    "title": "Natural Areas",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/t2zu-59kf",
+    "title": "2016 Census of Canada - Top 5 Languages spoken most often at home by Ward",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/t4dm-fvbb",
+    "title": "Source Watershed Vulnerability",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/t5cu-zw22",
+    "title": "Calgary Police Indicators - Numbers",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/t7pc-8wsh",
+    "title": "2016 Census of Canada - Continent of birth of immigrants",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ta76-7bfx",
+    "title": "Public Water Service Lines",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/tbbz-5qpt",
+    "title": "Interprovincial and Intraprovincial Migration to Calgary",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/tcwg-fcae",
+    "title": "Cemetery Burial Records",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/tdtb-wrps",
+    "title": "General Election 2021 - Councillor by Ward (Advance Vote)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/tear-y2f2",
+    "title": "Parks Barriers",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
     "url": "https://data.calgary.ca/d/tfmd-grpe",
     "title": "Trails",
     "labels": {
@@ -42,6 +4620,1042 @@
       "country": "Canada",
       "region": "Alberta",
       "city": "Calgary"
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/tfs4-3wwa",
+    "title": "Public Trees",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/tg24-jt7r",
+    "title": "Gas Permits and Inspections",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/tp6q-x2v7",
+    "title": "Regulatory Flood Map (Bylaw Flood Hazard)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/tqjs-vnhy",
+    "title": "Major Road Network",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/trwk-drxj",
+    "title": "Solar Potential 2020 (images-.tiff)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/twfe-ukxx",
+    "title": "Historic City Limits",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/tyq3-sd7v",
+    "title": "Impervious Surface 1995",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/tz8z-hyaz",
+    "title": "Ward Boundaries",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/u6ce-yibw",
+    "title": "Traffic Signs",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/u7gw-tfe3",
+    "title": "Census By Ward 2004",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/u7sr-kvzj",
+    "title": "Civic census 2014 - Modes of Travel to Work",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/uc4c-6kbd",
+    "title": "Buildings",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/uc6u-bytb",
+    "title": "Solar Potential 2018 (images-.tiff)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ue7k-y2pd",
+    "title": "Calgary Public Library Program Information 2014",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ufkw-t69m",
+    "title": "Annual Waste Volumes",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/uj4k-cdzk",
+    "title": "Parks Buildings",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ukh2-ga25",
+    "title": "2013 Election Results By Station",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/uq24-jkwv",
+    "title": "COVID-19 Requests",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/uqjm-jxgp",
+    "title": "Historical Air Quality",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/usjx-kn8w",
+    "title": "Adaptive Roadways",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/uumr-spb3",
+    "title": "Alberta Open Data Portals",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/uwis-xpm2",
+    "title": "Bike and Pedestrian Counts Monitoring Locations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vchq-db2i",
+    "title": "Bridges",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vd9i-m9ze",
+    "title": "Parks Site Elements",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vdjc-pybd",
+    "title": "Calgary Business Licences",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vimf-vkj4",
+    "title": "Non permanent streams",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vj89-r4s2",
+    "title": "Open Data Routine Maintenance Schedule",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vkhm-h954",
+    "title": "Luminaires",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vnha-3kkk",
+    "title": "Quality of life indicators",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vq7n-3cqv",
+    "title": "Calgary Transit Scheduling Data (June 6-Sept 2, 2018)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vr9r-mchr",
+    "title": "Parks Sport Surfaces",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vsk6-ghca",
+    "title": "Civic Census by Community, Age and Gender",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vsrz-etmy",
+    "title": "Recreation Registered Programs",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vt3t-jpfj",
+    "title": "Streetlight Poles",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vuyp-sbjp",
+    "title": "Traffic Counts at Permanent stations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vxgy-id5s",
+    "title": "Electrical Permits and Inspections",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/vxxi-pm4v",
+    "title": "Year To Date Economic Indicators",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/w4ed-w9ky",
+    "title": "Voting Subdivisions - 2018 Vote of the Electors",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/w5hc-kvum",
+    "title": "General Election 2021 - Fluoride by Ward (Advance Vote)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/w5s3-yvk5",
+    "title": "2012 Bike Normalized Volume",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/w8v8-fsns",
+    "title": "Landfill Setbacks",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/w8wn-kuii",
+    "title": "1:100 Flood Map (1% chance of occurring in any year)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/w8zq-79bq",
+    "title": "Construction Detours",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/wacf-2aux",
+    "title": "Suburban Planned Land Supply with Servicing Status",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/wfy7-ea5g",
+    "title": "Official Results - General Election 2017",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/wi52-6nx6",
+    "title": "Top 100 Licensed Dog Breeds",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/wifh-4ta2",
+    "title": "River Level and Flow Monitoring Stations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/wj3a-wgmh",
+    "title": "2016 Census of Canada - Household Income",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/wnys-g3eq",
+    "title": "Road Marking Lane Widths",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/wrtt-2nqs",
+    "title": "Tenancy Change Applications",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/wwf6-cpsg",
+    "title": "Traffic Volumes for 2018",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/wyyc-63e5",
+    "title": "Green Line Alignment",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/x34e-bcjz",
+    "title": "Community Services",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/x9fe-3zah",
+    "title": "Rain Gauge locations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/xa96-xr34",
+    "title": "General Election 2021 - Daylight Saving Referendum by Station",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/xeek-u7v8",
+    "title": "Calgary Equity Index Matrix",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/xkj3-r8v4",
+    "title": "311 Customer Satisfaction Survey",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/xn3q-y49u",
+    "title": "Water Pressure Zones",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/xvc2-3u78",
+    "title": "Census By Ward 2000",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/xwq2-js5v",
+    "title": "Parks Sport Grouping Areas",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/xxwt-fdh5",
+    "title": "Census By Ward 2008",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/y2j4-jpw3",
+    "title": "Voting Subdivisions (effective October 16, 2017)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/y3tg-gbwj",
+    "title": "Senior management expenses",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/y8as-bmzj",
+    "title": "Watershed Surface Water Quality Data",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ybd2-54bg",
+    "title": "Bicycle and Pedestrian Counts (2013-2016)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ygai-4gfr",
+    "title": "Census By Ward 2005",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/yi6d-a7q5",
+    "title": "Policy Plan Boundaries",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/yius-inbn",
+    "title": "Solar Potential 2012-2013 (images-.tiff)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/yjnf-d4r8",
+    "title": "Healthy Rivers Sub Watersheds",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ynek-qdgh",
+    "title": "COVID-19 Vaccination Locations",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/yqm7-vj8i",
+    "title": "Dangerous Goods Truck Routes",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/yr3w-mcsu",
+    "title": "Civic Census by Ward and Dwelling Structure",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ytdn-2qsp",
+    "title": "Solar Energy Production",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
+    },
+    "data": {
+      "schema": "",
+      "datasets": {}
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/ywjd-32pn",
+    "title": "1:200 Flood Map (0.5% chance of occurring in any year)",
+    "labels": {
+      "category": "Uncategorized",
+      "country": "Albania",
+      "region": "",
+      "city": ""
     },
     "data": {
       "schema": "",
