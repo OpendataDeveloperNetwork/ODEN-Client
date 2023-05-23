@@ -17,13 +17,13 @@
     "url": "https://data.calgary.ca/d/2kp2-hsy7",
     "title": "Public Art",
     "labels": {
-      "category": "Public Art",
+      "category": "public-art",
       "country": "Canada",
       "region": "Alberta",
       "city": "Calgary"
     },
     "data": {
-      "schema": "https://github.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/blob/main/schemas/public-art.json",
+      "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
       "datasets": {
         "json": {
           "filters": {
