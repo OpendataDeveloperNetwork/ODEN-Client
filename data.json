@@ -45,7 +45,11 @@
     },
     "data": {
       "schema": "",
-      "datasets": {}
+      "datasets": {
+        "json": {
+          "url": "https://data.calgary.ca/resource/23m4-i42g.json?$query=SELECT%20%60title%60%2C%20%60meeting_date%60%2C%20%60link%60"
+        }
+      }
     }
   },
   {
