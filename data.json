@@ -31,21 +31,14 @@
     "url": "https://data-cityofpg.opendata.arcgis.com/maps/CityofPG::public-art",
     "title": "Public Art",
     "labels": {
-      "category": "public-art",
+      "category": "Uncategorized",
       "country": "Canada",
       "region": "British Columbia",
       "city": "Prince George"
     },
     "data": {
       "schema": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/schemas/public-art.json",
-      "datasets": {
-        "json": {
-          "url": "https://services2.arcgis.com/CnkB6jCzAsyli34z/arcgis/rest/services/OpenData_Parks/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson",
-          "filters": {
-            "json": "https://raw.githubusercontent.com/OpendataDeveloperNetwork/ODEN-Transmogrifiers/main/filters/canada/british-columbia/prince-george/public-art-geojson-to-json.js"
-          }
-        }
-      }
+      "datasets": {}
     }
   },
   {
