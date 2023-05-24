@@ -1,5 +1,47 @@
 [
   {
+    "url": "https://data.calgary.ca/d/2i2v-2r6r",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": false,
+      "submissionTime": 1684952288138
+    }
+  },
+  {
+    "url": "https://data.calgary.ca/d/2kp2-hsy7",
+    "labels": {
+      "categorized": false,
+      "hasCountry": true,
+      "hasRegion": true,
+      "hasCity": true,
+      "isFilterable": false,
+      "landingUrl404d": false
+    },
+    "data": {
+      "conformSchema": false,
+      "schema404d": false,
+      "datasets": {}
+    },
+    "info": {
+      "hasEmail": true,
+      "hasName": false,
+      "submissionTime": 1684952288138
+    }
+  },
+  {
     "url": "https://data-cityofpg.opendata.arcgis.com/maps/CityofPG::ocp-8383-trails-proposed",
     "labels": {
       "categorized": false,
