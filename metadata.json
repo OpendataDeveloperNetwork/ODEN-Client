@@ -11,7 +11,7 @@
     },
     "data": {
       "conformSchema": false,
-      "schema404d": false,
+      "schema404d": true,
       "datasets": {}
     },
     "info": {
@@ -23,7 +23,7 @@
   {
     "url": "https://data.calgary.ca/d/2kp2-hsy7",
     "labels": {
-      "categorized": false,
+      "categorized": true,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -86,7 +86,7 @@
   {
     "url": "https://data-cityofpg.opendata.arcgis.com/maps/CityofPG::public-art",
     "labels": {
-      "categorized": true,
+      "categorized": false,
       "hasCountry": true,
       "hasRegion": true,
       "hasCity": true,
@@ -510,7 +510,8 @@
             "json": {
               "correctness": 0.802
             }
-          }
+          },
+          "url404d": false
         }
       }
     },
