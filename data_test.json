@@ -40,26 +40,5 @@
       "category": "Uncategorized",
       "region": "Alberta"
     }
-  },
-  {
-    "data": {
-      "schema": "",
-      "datasets": {}
-    },
-    "title": "2018 Vote of the Electors Unofficial Results",
-    "url": "https://data.calgary.ca/d/c683-z2p7",
-    "info": {
-      "owner": false,
-      "name": "",
-      "email": "",
-      "notify": false,
-      "submissionTime": 1684807671010
-    },
-    "labels": {
-      "country": "Canada",
-      "city": "Calgary",
-      "category": "Uncategorized",
-      "region": "Alberta"
-    }
   }
 ]
