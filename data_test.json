@@ -36,9 +36,9 @@
     "info": {
       "owner": false,
       "name": "",
-      "email": "",
       "notify": false,
-      "submissionTime": 1684807671010
+      "submissionTime": 1684807671010,
+      "email": "added_this_email@gmail.com"
     }
   }
 ]
