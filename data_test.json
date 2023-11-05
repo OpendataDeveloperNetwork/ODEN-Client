@@ -27,18 +27,19 @@
     },
     "title": "Traffic Incidents Archive 2016",
     "url": "https://data.calgary.ca/d/mmhq-hpsq",
-    "info": {
-      "owner": false,
-      "name": "",
-      "email": "",
-      "notify": false,
-      "submissionTime": 1684807671010
-    },
     "labels": {
       "country": "Canada",
       "city": "Calgary",
       "category": "Uncategorized",
       "region": "Alberta"
+    },
+    "info": {
+      "owner": false,
+      "name": "",
+      "email": "",
+      "notify": false,
+      "submissionTime": 1684807671010,
+      "unknownextra": ""
     }
   }
 ]
