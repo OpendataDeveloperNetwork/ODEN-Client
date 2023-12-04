@@ -4,27 +4,6 @@
       "schema": "",
       "datasets": {}
     },
-    "title": "Municipal Development Plan Primary Transit Network Points",
-    "url": "https://data.calgary.ca/d/qseb-xcrr",
-    "labels": {
-      "country": "Canada",
-      "city": "Calgary",
-      "category": "Uncategorized",
-      "region": "Alberta"
-    },
-    "info": {
-      "owner": false,
-      "name": "",
-      "email": "",
-      "notify": false,
-      "submissionTime": 1684807167010
-    }
-  },
-  {
-    "data": {
-      "schema": "",
-      "datasets": {}
-    },
     "title": "Micromobility Locations",
     "url": "https://data.calgary.ca/d/8mci-3bzr",
     "labels": {
