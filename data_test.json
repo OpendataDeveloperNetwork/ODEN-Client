@@ -405,18 +405,18 @@
     },
     "title": "Assessments by Community",
     "url": "https://data.calgary.ca/d/p84b-7zbi",
-    "labels": {
-      "country": "Canada",
-      "city": "Calgary",
-      "category": "Uncategorized",
-      "region": "Alberta"
-    },
     "info": {
       "owner": false,
       "name": "",
       "email": "",
       "notify": false,
       "submissionTime": 1684807167010
+    },
+    "labels": {
+      "country": "Canada",
+      "city": "Calgary",
+      "region": "Alberta",
+      "category": "Networking"
     }
   },
   {
