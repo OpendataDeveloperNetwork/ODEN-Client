@@ -4414,6 +4414,27 @@
       "schema": "",
       "datasets": {}
     },
+    "title": "Edmonton Arts Council - Public Art",
+    "url": "https://data.edmonton.ca/d/3j8x-xkfh",
+    "labels": {
+      "country": "Canada",
+      "city": "Edmonton",
+      "category": "Uncategorized",
+      "region": "Alberta"
+    },
+    "info": {
+      "owner": false,
+      "name": "Simar Vashisht",
+      "email": "simarv07@gmail.com",
+      "notify": false,
+      "submissionTime": 1701662225809
+    }
+  },
+  {
+    "data": {
+      "schema": "",
+      "datasets": {}
+    },
     "title": "Census By Ward 2017",
     "url": "https://data.calgary.ca/d/qe4n-g76r",
     "labels": {
@@ -6108,6 +6129,27 @@
       "email": "",
       "notify": false,
       "submissionTime": 1684807167010
+    }
+  },
+  {
+    "data": {
+      "schema": "",
+      "datasets": {}
+    },
+    "title": "International Open Data Charter",
+    "url": "https://data.edmonton.ca/d/secq-sswa",
+    "labels": {
+      "country": "Canada",
+      "city": "Edmonton",
+      "category": "Uncategorized",
+      "region": "Alberta"
+    },
+    "info": {
+      "owner": false,
+      "name": "Simar Vashisht",
+      "email": "simarv07@gmail.com",
+      "notify": false,
+      "submissionTime": 1701662225809
     }
   },
   {
