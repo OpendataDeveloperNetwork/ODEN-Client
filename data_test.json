@@ -8427,18 +8427,18 @@
     },
     "title": "Citywide Land Cover",
     "url": "https://data.calgary.ca/d/as2i-6z3n",
-    "labels": {
-      "country": "Canada",
-      "city": "Calgary",
-      "category": "Uncategorized",
-      "region": "Alberta"
-    },
     "info": {
       "owner": false,
       "name": "",
       "email": "",
       "notify": false,
       "submissionTime": 1684807167010
+    },
+    "labels": {
+      "country": "Canada",
+      "city": "Calgary",
+      "region": "Alberta",
+      "category": "Citywide Land Cover"
     }
   },
   {
@@ -8544,27 +8544,6 @@
       "email": "",
       "notify": false,
       "submissionTime": 1684807167010
-    }
-  },
-  {
-    "data": {
-      "schema": "",
-      "datasets": {}
-    },
-    "title": "OCP 8383 Trails Proposed",
-    "url": "https://data-cityofpg.opendata.arcgis.com/maps/CityofPG::ocp-8383-trails-proposed",
-    "labels": {
-      "country": "Canada",
-      "city": "Prince George",
-      "category": "Uncategorized",
-      "region": "British Columbia"
-    },
-    "info": {
-      "owner": false,
-      "name": "George",
-      "email": "george@george.ca",
-      "notify": false,
-      "submissionTime": 1684343534783
     }
   },
   {
